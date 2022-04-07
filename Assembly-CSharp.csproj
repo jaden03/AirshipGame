@@ -109,6 +109,7 @@
     <Compile Include="obj\Debug\.NETFramework,Version=v4.7.1.AssemblyAttributes.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Animations.meta" />
     <None Include="Assets\Animations\HoldPoint.meta" />
     <None Include="Assets\Animations\HoldPoint\HoldPoint.controller" />
     <None Include="Assets\Animations\HoldPoint\HoldPoint.controller.meta" />
@@ -132,6 +133,12 @@
     <None Include="Assets\Animations\Windmill\Windmill.anim.meta" />
     <None Include="Assets\Animations\Windmill\Windmill.controller" />
     <None Include="Assets\Animations\Windmill\Windmill.controller.meta" />
+    <None Include="Assets\CaveSkybox.mat" />
+    <None Include="Assets\CaveSkybox.mat.meta" />
+    <None Include="Assets\Dead.mat" />
+    <None Include="Assets\Dead.mat.meta" />
+    <None Include="Assets\Discordity.meta" />
+    <None Include="Assets\HDRPDefaultResources.meta" />
     <None Include="Assets\HDRPDefaultResources\DefaultSettingsVolumeProfile.asset" />
     <None Include="Assets\HDRPDefaultResources\DefaultSettingsVolumeProfile.asset.meta" />
     <None Include="Assets\HDRPDefaultResources\Foliage Diffusion Profile.asset" />
@@ -140,10 +147,12 @@
     <None Include="Assets\HDRPDefaultResources\HDRenderPipelineAsset.asset.meta" />
     <None Include="Assets\HDRPDefaultResources\Skin Diffusion Profile.asset" />
     <None Include="Assets\HDRPDefaultResources\Skin Diffusion Profile.asset.meta" />
+    <None Include="Assets\LeanTween.meta" />
     <None Include="Assets\LeanTween\ReadMe.txt" />
     <None Include="Assets\LeanTween\License.txt" />
     <None Include="Assets\Discordity\Plugins\x86\discord_game_sdk.dll" />
     <None Include="Assets\Discordity\Plugins\x86_64\discord_game_sdk.dll" />
+    <None Include="Assets\Materials.meta" />
     <None Include="Assets\Materials\CameraThing.mat" />
     <None Include="Assets\Materials\CameraThing.mat.meta" />
     <None Include="Assets\Materials\Cloud.mat" />
@@ -186,7 +195,17 @@
     <None Include="Assets\Materials\Waterfall.mat.meta" />
     <None Include="Assets\Materials\Waterfall.shadergraph" />
     <None Include="Assets\Materials\Waterfall.shadergraph.meta" />
+    <None Include="Assets\Models.meta" />
     <None Include="Assets\Models\Island10\skeleton.fbx" />
+    <None Include="Assets\NEWTEGOMIN-REGULAR.TTF" />
+    <None Include="Assets\NEWTEGOMIN-REGULAR.TTF.meta" />
+    <None Include="Assets\Normal.physicMaterial" />
+    <None Include="Assets\Normal.physicMaterial.meta" />
+    <None Include="Assets\NotLit.mat" />
+    <None Include="Assets\NotLit.mat.meta" />
+    <None Include="Assets\Plain.mat" />
+    <None Include="Assets\Plain.mat.meta" />
+    <None Include="Assets\Prefabs.meta" />
     <None Include="Assets\Prefabs\barrel.prefab" />
     <None Include="Assets\Prefabs\barrel.prefab.meta" />
     <None Include="Assets\Prefabs\chainLantern.prefab" />
@@ -227,9 +246,12 @@
     <None Include="Assets\Prefabs\tree2.prefab.meta" />
     <None Include="Assets\Prefabs\tree3.prefab" />
     <None Include="Assets\Prefabs\tree3.prefab.meta" />
+    <None Include="Assets\Presets.meta" />
     <None Include="Assets\Presets\FBXImporter.preset" />
     <None Include="Assets\Presets\FBXImporter.preset.meta" />
+    <None Include="Assets\Resources.meta" />
     <None Include="Assets\Resources\Icon.png.meta" />
+    <None Include="Assets\Scenes.meta" />
     <None Include="Assets\Scenes\AirshipInterior.unity" />
     <None Include="Assets\Scenes\AirshipInterior.unity.meta" />
     <None Include="Assets\Scenes\Death.unity" />
@@ -271,6 +293,12 @@
     <None Include="Assets\Scenes\World_Profiles.meta" />
     <None Include="Assets\Scenes\World_Profiles\Main Camera Profile.asset" />
     <None Include="Assets\Scenes\World_Profiles\Main Camera Profile.asset.meta" />
+    <None Include="Assets\Scripts.meta" />
+    <None Include="Assets\Skybox.mat" />
+    <None Include="Assets\Skybox.mat.meta" />
+    <None Include="Assets\Slip.physicMaterial" />
+    <None Include="Assets\Slip.physicMaterial.meta" />
+    <None Include="Assets\Sounds.meta" />
     <None Include="Assets\Sounds\Footsteps.meta" />
     <None Include="Assets\Sounds\Footsteps\GFootstep1.wav.meta" />
     <None Include="Assets\Sounds\Footsteps\GFootstep2.wav.meta" />
@@ -283,6 +311,7 @@
     <None Include="Assets\Sounds\Music.meta" />
     <None Include="Assets\Sounds\Music\IWasTryingToMakeLofi.wav.meta" />
     <None Include="Assets\Sounds\Music\MenuSong.wav.meta" />
+    <None Include="Assets\Textures.meta" />
     <None Include="Assets\Textures\Deform.shadergraph" />
     <None Include="Assets\Textures\Deform.shadergraph.meta" />
     <None Include="Assets\Textures\Inventory.meta" />
@@ -313,6 +342,7 @@
     <None Include="Assets\Textures\UV.png.meta" />
     <None Include="Assets\Textures\UVBlueGlow.png.meta" />
     <None Include="Assets\Textures\UVOrange.png.meta" />
+    <None Include="Assets\Thirdparty.meta" />
     <None Include="Assets\Thirdparty\Gridbox Prototype Materials.meta" />
     <None Include="Assets\Thirdparty\Gridbox Prototype Materials\Resources.meta" />
     <None Include="Assets\Thirdparty\Gridbox Prototype Materials\Resources\Materials.meta" />
