@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 5c9d955e8cdc62e41aa753cdfddd72be
+  - enabled: 1
+    path: Assets/Scenes/World.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Island1Dungeon.unity
+    guid: 82cf8a93169568d4bb48e3567fd076ab
+  - enabled: 1
+    path: Assets/Scenes/Death.unity
+    guid: bde2369bfbc0b114c8c158e2c55efc1a
+  - enabled: 1
+    path: Assets/Scenes/Island7Building.unity
+    guid: 98af6808a73c6ae4483b09920cc563cc
+  - enabled: 1
+    path: Assets/Scenes/AirshipInterior.unity
+    guid: 7d56aab220998c24d8a1d8c7ea86345d
+  - enabled: 1
+    path: Assets/Scenes/Test.unity
+    guid: 31d69f492ff77644da3dc0d93b7787dd
+  m_configObjects: {}
